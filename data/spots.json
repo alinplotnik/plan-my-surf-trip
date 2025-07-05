@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Uluwatu",
+    "country": "Indonesia",
+    "bestMonths": [4, 5, 6, 7, 8, 9]
+  },
+  {
+    "name": "Pipeline",
+    "country": "Hawaii, USA",
+    "bestMonths": [11, 12, 1, 2]
+  },
+  {
+    "name": "Jeffreys Bay",
+    "country": "South Africa",
+    "bestMonths": [6, 7, 8]
+  },
+  {
+    "name": "Hossegor",
+    "country": "France",
+    "bestMonths": [9, 10, 11]
+  },
+  {
+    "name": "Raglan",
+    "country": "New Zealand",
+    "bestMonths": [3, 4, 5]
+  },
+  {
+    "name": "Puerto Escondido",
+    "country": "Mexico",
+    "bestMonths": [5, 6, 7, 8, 9]
+  },
+  {
+    "name": "Snapper Rocks",
+    "country": "Australia",
+    "bestMonths": [2, 3, 4]
+  },
+  {
+    "name": "Mundaka",
+    "country": "Spain",
+    "bestMonths": [10, 11, 12, 1]
+  },
+  {
+    "name": "Santa Teresa",
+    "country": "Costa Rica",
+    "bestMonths": [4, 5, 6, 7, 8, 9]
+  },
+  {
+    "name": "Tofino",
+    "country": "Canada",
+    "bestMonths": [9, 10, 11]
+  }
+]
